@@ -1,0 +1,2 @@
+All:
+    g++ file.cpp
